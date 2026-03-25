@@ -126,7 +126,7 @@ Find best APIs for your projects
 Find daily mess menus instantly 🍽️  
 
 #### 🍃 KrishiSetu-Ai  
-👉 https://krishi-setu-ai.vercel.app/
+ 👉 https://krishi-setu-ai.vercel.app/
 A MarketPlace and Ecommerce Platform For Farmers 
 
 ---
