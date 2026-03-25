@@ -59,18 +59,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekkumavat&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumavat&layout=compact&theme=tokyonight" />
-</p>
-
 ### 🤖 AI Tools
 
 <p>
@@ -88,6 +76,20 @@
 <img src="https://img.shields.io/badge/Qoder-6C63FF" />
 <img src="https://img.shields.io/badge/Antigravity-111111" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekkumavat&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumavat&layout=compact&theme=tokyonight" />
+</p>
+
+
 
 ---
 
