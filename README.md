@@ -62,7 +62,7 @@
 ### 🤖 AI Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/Void-000000?style=for-the-badge" />
 
 <img src="https://cdn.simpleicons.org/openai" width="40"/>
 <img src="https://cdn.simpleicons.org/anthropic" width="40"/>
