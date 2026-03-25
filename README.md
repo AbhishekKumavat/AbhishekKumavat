@@ -77,6 +77,24 @@
 <img src="https://img.shields.io/badge/Antigravity-111111" />
 </p>
 
+
+### 🧠 ML Models & AI Experience
+
+- 🤖 Worked with LLMs like **Mistral, Vicuna, LLaMA (7B), GPT4All**
+- ⚡ Built models using **XGBoost for prediction systems**
+- 🧪 Used **BART for NLP tasks (summarization / text generation)**
+- 🤗 Experience with **Hugging Face ecosystem**
+
+<p>
+<img src="https://img.shields.io/badge/Mistral-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vicuna-3B82F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLaMA_7B-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/GPT4All-10A37F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BART-FF4088?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
