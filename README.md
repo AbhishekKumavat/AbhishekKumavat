@@ -4,8 +4,8 @@
 <p align="center">
 <a href="https://reframebase.com" target="_blank">⚡ Reframebase</a> •
 <a href="https://apisuggestor.com" target="_blank">🔗 ApiSuggestor</a>
-<a href="https://messfinder.vip" target="_blank">🌐 MessFinder</a>
-<a href="https://krishi-setu-ai.vercel.app/" target="_blank">🌐 KrishiSetu-Ai</a>
+<a href="https://messfinder.vip" target="_blank">🍴 MessFinder</a>
+<a href="https://krishi-setu-ai.vercel.app/" target="_blank">🍃 KrishiSetu-Ai</a>
 </p>
 
 ---
@@ -125,7 +125,7 @@ Find best APIs for your projects
 👉 https://messfinder.vip  
 Find daily mess menus instantly 🍽️  
 
-🔗 KrishiSetu-Ai  
+#### 🍃 KrishiSetu-Ai  
 👉 https://krishi-setu-ai.vercel.app/
 A MarketPlace and Ecommerce Platform For Farmers 
 
