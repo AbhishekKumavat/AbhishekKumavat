@@ -64,9 +64,7 @@
 <p>
 <img src="https://img.shields.io/badge/Void-000000?style=for-the-badge" />
 
-<img src="https://cdn.simpleicons.org/openai" width="40"/>
-<img src="https://cdn.simpleicons.org/anthropic" width="40"/>
-
+<img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Codeium-09B6A2?logo=codeium&logoColor=white" />
 <img src="https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=white" />
