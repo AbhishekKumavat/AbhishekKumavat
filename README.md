@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumavat</h1>
-<h3 align="center">🚀 Building ReframeBase & MessFinder | Full Stack Developer from India</h3>
-<h3 align="center">🚀 contact me on :- abhishekkumavat443@gmail.com</h3>
+<h3 align="center">🚀 Building ReframeBase & MessFinder </h3>
+
 
 <p align="center">
 <a href="https://reframebase.com" target="_blank">⚡ Reframebase</a> •
