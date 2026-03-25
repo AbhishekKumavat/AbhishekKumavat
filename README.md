@@ -3,8 +3,8 @@
 
 <p align="center">
 <a href="https://messfinder.vip" target="_blank">🌐 MessFinder</a> • 
-<a href="https://reframebase.com" target="_blank">⚡ Reframebase</a>
-<a href="https://apisuggestor.com" target="_blank">⚡ ApiSuggestor</a>
+<a href="https://reframebase.com" target="_blank">⚡ Reframebase</a> •
+<a href="https://apisuggestor.com" target="_blank">🔗 ApiSuggestor</a>
 </p>
 
 ---
@@ -42,13 +42,21 @@
 
 #### 🧠 Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48"/>
+<img src="https://neon.tech/favicon.ico" width="40"/>
+</p>
+
+#### 🚀 Deployments
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,firebase,netlify,cloudflare" />
+<img src="https://seeklogo.com/images/R/render-logo-7F749B8A1F-seeklogo.com.png" width="40"/>
+<img src="https://seeklogo.com/images/R/railway-logo-1F0B7C1E1A-seeklogo.com.png" width="40"/>
 </p>
 
 #### 🛠 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
 </p>
 
 ---
@@ -60,10 +68,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumavat&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumavat&layout=compact&theme=tokyonight" />
 </p>
 
@@ -71,13 +75,17 @@
 
 ### 🚀 Featured Projects
 
-#### 🔥 MessFinder
+#### 🔥 MessFinder  
 👉 https://messfinder.vip  
-Find daily mess menus instantly 🍽️
+Find daily mess menus instantly 🍽️  
 
-#### ⚡ Reframebase
+#### ⚡ Reframebase  
 👉 https://reframebase.com  
-AI prompts + dev tools + real-world projects
+AI prompts + dev tools + real-world projects  
+
+#### 🔗 ApiSuggestor  
+👉 https://apisuggestor.com  
+Find best APIs for your projects  
 
 ---
 
