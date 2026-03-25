@@ -14,8 +14,8 @@
 - 🔭 Working on **MessFinder (daily mess menu platform)**
 - 🚀 Building **Reframebase (AI + dev tools platform)**
 - 🌱 Learning **Next.js, AI tools, backend systems**
-- 💬 Ask me about **React, UI, APIs, startups**
-- ⚡ Fun fact: *I love building startup ideas more than watching movies 😄*
+- 💬 Ask me about **Projects Ideas, UI, Bugs in Project , APIs, startups**
+- ⚡ Fun fact: *I love building real world projects than watching movies*
 
 ---
 
