@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumavat</h1>
-<h3 align="center">🚀 Building MessFinder & Reframebase | Full Stack Developer from India</h3>
+<h3 align="center">🚀 Building ReframeBase & MessFinder | Full Stack Developer from India</h3>
+<h3 align="center">🚀 contact me on :- abhishekkumavat443@gmail.com</h3>
 
 <p align="center">
 <a href="https://reframebase.com" target="_blank">⚡ Reframebase</a> •
@@ -13,7 +14,7 @@
 ### 👨‍💻 About Me
 - 🔭 Working on **MessFinder (daily mess menu platform)**
 - 🚀 Building **Reframebase (AI + dev tools platform)**
-- 🌱 Learning **Next.js, AI tools, backend systems**
+- 🌱 Learning **Ml and Langchain**
 - 💬 Ask me about **Projects Ideas, UI, Bugs in Project , APIs, startups**
 - ⚡ Fun fact: *I love building real world projects than watching movies*
 
@@ -21,7 +22,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/abhishek-kumavat-7bb6b1291/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
 </a>
 <a href="https://instagram.com/reframebase" target="_blank">
