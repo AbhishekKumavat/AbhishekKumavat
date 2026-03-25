@@ -71,6 +71,24 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumavat&layout=compact&theme=tokyonight" />
 </p>
 
+### 🤖 AI Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://cdn.simpleicons.org/openai" width="40"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="40"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeium-09B6A2?logo=codeium&logoColor=white" />
+<img src="https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=white" />
+<img src="https://img.shields.io/badge/Bolt-000000?logo=bolt&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF69B4" />
+<img src="https://img.shields.io/badge/Windsurf-0A0A0A" />
+<img src="https://img.shields.io/badge/Qoder-6C63FF" />
+<img src="https://img.shields.io/badge/Antigravity-111111" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
