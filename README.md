@@ -44,7 +44,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48"/>
-<img src="https://neon.tech/favicon.ico" width="40"/>
+<img src="https://cdn.simpleicons.org/neon/00E599" width="40"/>
 </p>
 
 #### 🚀 Deployments
