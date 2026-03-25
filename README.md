@@ -51,7 +51,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,firebase,netlify,cloudflare" />
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/>
-<img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40"/>
+<img src="https://cdn.simpleicons.org/railway/white" width="40" style="background-color:#000;padding:6px;border-radius:8px;" />
 </p>
 
 #### 🛠 Tools
