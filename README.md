@@ -50,8 +50,8 @@
 #### 🚀 Deployments
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,firebase,netlify,cloudflare" />
-<img src="https://seeklogo.com/images/R/render-logo-7F749B8A1F-seeklogo.com.png" width="40"/>
-<img src="https://seeklogo.com/images/R/railway-logo-1F0B7C1E1A-seeklogo.com.png" width="40"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/>
+<img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40"/>
 </p>
 
 #### 🛠 Tools
