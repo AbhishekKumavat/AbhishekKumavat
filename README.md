@@ -2,9 +2,10 @@
 <h3 align="center">🚀 Building MessFinder & Reframebase | Full Stack Developer from India</h3>
 
 <p align="center">
-<a href="https://messfinder.vip" target="_blank">🌐 MessFinder</a> • 
 <a href="https://reframebase.com" target="_blank">⚡ Reframebase</a> •
 <a href="https://apisuggestor.com" target="_blank">🔗 ApiSuggestor</a>
+<a href="https://messfinder.vip" target="_blank">🌐 MessFinder</a>
+<a href="https://krishi-setu-ai.vercel.app/" target="_blank">🌐 KrishiSetu-Ai</a>
 </p>
 
 ---
@@ -111,17 +112,21 @@
 
 ### 🚀 Featured Projects
 
-#### 🔥 MessFinder  
-👉 https://messfinder.vip  
-Find daily mess menus instantly 🍽️  
-
 #### ⚡ Reframebase  
 👉 https://reframebase.com  
 AI prompts + dev tools + real-world projects  
 
 #### 🔗 ApiSuggestor  
 👉 https://apisuggestor.com  
-Find best APIs for your projects  
+Find best APIs for your projects 
+
+#### 🔥 MessFinder  
+👉 https://messfinder.vip  
+Find daily mess menus instantly 🍽️  
+
+🔗 KrishiSetu-Ai  
+👉 https://krishi-setu-ai.vercel.app/
+A MarketPlace and Ecommerce Platform For Farmers 
 
 ---
 
