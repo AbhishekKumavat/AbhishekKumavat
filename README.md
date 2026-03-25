@@ -58,6 +58,7 @@
 #### 🛠 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
+<img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 🤖 AI Tools
