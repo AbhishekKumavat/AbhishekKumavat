@@ -60,9 +60,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
 <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
-<div style="background:#fff; padding:6px; border-radius:8px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40"/>
 </p>
 
 ### 🤖 AI Tools
