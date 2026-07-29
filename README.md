@@ -102,11 +102,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekkumavat&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumavat&layout=compact&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumavat&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKumavat&layout=compact&theme=tokyonight)
 </p>
 
 
