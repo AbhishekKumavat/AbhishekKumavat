@@ -101,13 +101,7 @@
 
 
 
-<p align="center">
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekKumavat&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKumavat&layout=compact&theme=tokyonight)
-</p>
 
 
 
